@@ -1,4 +1,13 @@
-site_name: SQL Tutorial
+site_name: MySQL Notes
+
+nav:
+  - Home:
+      - index.md
+  - SQL Basics:
+      - Basics.md
+  - Advanced Topics:
+      - Advanced.md
+
 theme:
   name: material
   features:
